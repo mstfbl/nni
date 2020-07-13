@@ -9,8 +9,8 @@
 
     Recommenders 中使用 NNI<RecommendersSvd>
     使用 NNI 为 SPTAG 自动调参 <SptagAutoTune>
-    神经网络结构搜索（NAS）的对比<NasComparision>
-    超参调优算法的对比<HpoComparision>
+    神经网络结构搜索（NAS）的对比<NasComparison>
+    超参调优算法的对比<HpoComparison>
     TPE 的并行优化<ParallelizingTpeSearch>
     使用 NNI 自动调优系统 <TuningSystems>
     来自知乎的评论：作者 Garvin Li <NNI_AutoFeatureEng>

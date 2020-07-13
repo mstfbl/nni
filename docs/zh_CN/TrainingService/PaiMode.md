@@ -84,7 +84,7 @@ paiConfig:
   reuse: true
 ```
 
-注意：如果用 pai 模式运行，需要在 YAML 文件中设置 `trainingServicePlatform: pai`。
+注意：如果用 pai 模式运行，需要在 YAML 文件中设置 `trainingServicePlatform: pai`。 The host field in configuration file is PAI's job submission page uri, like `10.10.5.1`, the default http protocol in NNI is `http`, if your PAI's cluster enabled https, please use the uri in `https://10.10.5.1` format.
 
 ### Trial 配置
 
